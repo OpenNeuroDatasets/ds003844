@@ -1,0 +1,26 @@
+{
+	"onset": {
+		"type": "object",
+		"description": "onset of event in seconds"
+	},
+	"duration": {
+		"type": "object",
+		"description": "duration of event in seconds"
+	},
+	"trial_type": {
+		"type": "object",
+		"description": "type of event (good data segment\/ artefect at channel level\/ period of burstsuppresion\/ period of odd behavior)"
+	},
+	"electrodes_involved": {
+		"type": "object",
+		"description": "electrodes involved in event."
+	},
+	"sample_start": {
+		"type": "object",
+		"description": "onset of event in samples"
+	},
+	"sample_stop": {
+		"type": "object",
+		"description": "offset of event in samples"
+	}
+}
