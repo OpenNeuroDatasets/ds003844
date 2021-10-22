@@ -1,0 +1,7 @@
+{
+	"iEEGCoordinateSystem": "Other",
+	"iEEGCoordinateSystemDescription": "The origin of the coordinate system is between the ears and the axis are in the RAS direction. The scaling is with respect to the individuals anatomical scan and no scaling or deformation have been applied to the individuals anatomical scan",
+	"iEEGCoordinateUnits": "mm",
+	"iEEGCoordinateProcessingDescription": "none",
+	"IntendedFor": "sub-RESP0280_ses-SITUATION3A_photo.jpg"
+}

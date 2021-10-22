@@ -1,0 +1,34 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch	status	status_description	chan_recording
+Gr16	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	32
+Gr17	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	33
+Gr18	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	34
+Gr19	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	35
+Gr20	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	36
+Rst01	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	37
+Rst02	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	38
+Rst03	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	39
+Gr11	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	40
+Gr12	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	41
+Gr13	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	42
+Gr14	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	43
+Gr15	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	44
+Rst04	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	45
+Rst05	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	46
+Rst06	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	47
+Gr06	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	48
+Gr07	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	49
+Gr08	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	50
+Gr09	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)	51
+Gr10	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	52
+Riv01	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	53
+Riv02	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	54
+Riv03	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	55
+Gr01	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	cavity	56
+Gr02	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	cavity	57
+Gr03	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	cavity	58
+Gr04	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	cavity	59
+Gr05	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included	60
+Riv04	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	61
+Riv05	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	62
+ECG	ECG	µV	468	0.15	G2	other	2048	n/a	good	not included	63
+MKR+	TRIG	µV	468	0.15	MKR-	other	2048	n/a	good	not included	174

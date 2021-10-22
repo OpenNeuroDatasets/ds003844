@@ -1,0 +1,14 @@
+{
+	"name": "Name of the channel",
+	"type": "Type of signal measured with the channel",
+	"units": "Unit of the channel",
+	"low_cutoff": "Cut-off value of the low-pass filter",
+	"high_cutoff": "Cut-off value of the high-pass filter",
+	"reference": "The reference of the channel",
+	"group": "Group to which the channel belongs, this can be grid, strip, depth or other",
+	"sampling_frequency": "Sampling frequency of the channel",
+	"notch": "If a notch filter is applied",
+	"status": "The status of the channel",
+	"status_description": "The description that belongs to the status of the channel",
+	"chan_recording": "Number that corresponds to the channel in SystemPlus and BrainQuick"
+}

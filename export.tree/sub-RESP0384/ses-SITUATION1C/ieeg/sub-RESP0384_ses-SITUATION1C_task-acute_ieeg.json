@@ -1,0 +1,40 @@
+{
+	"SamplingFrequency": 2048,
+	"EEGChannelCount": 0,
+	"EOGChannelCount": 0,
+	"ECGChannelCount": 1,
+	"EMGChannelCount": 0,
+	"TriggerChannelCount": 0,
+	"RecordingDuration": 195.2871094,
+	"EpochLength": 195.2871094,
+	"TaskName": "task-acute",
+	"PowerLineFrequency": 50,
+	"SoftwareFilters": "n\/a",
+	"DCOffsetCorrection": "n\/a",
+	"HardwareFilters": {
+		"HighpassFilter": {
+			"CutoffFrequency": 0.15
+		},
+		"LowpassFilter": {
+			"CutoffFrequency": 468
+		}
+	},
+	"Manufacturer": "Micromed",
+	"ManufacturersModelName": "LTM64 Express",
+	"TaskDescription": "Intra-operative recording, patient is under (tempered) anesthesia, not doing a specific task\/undergoing mapping",
+	"Instructions": "No instruction is given",
+	"InstitutionName": "University Medical Center Utrecht, Division Brain, Clinical Neurophysiology Department",
+	"InstitutionAddress": "Heidelberglaan 100, 3584 CX Utrecht",
+	"DeviceSerialNumber": "n\/a",
+	"ECOGChannelCount": 20,
+	"MiscChannelCount": 0,
+	"RecordingType": "continuous",
+	"SubjectArtefactDescription": "artefacts are annotated manually in all electrodes(excluded in good data segments), or at the electrode level when an electrode is malfunctioning for a short period of time",
+	"SoftwareVersions": "4",
+	"iEEGReference": "probably mastoid",
+	"ElectrodeManufacturer": "AdTech",
+	"ElectrodeManufacturersModelName": "n\/a",
+	"iEEGGround": "top of forehead or mastoid",
+	"iEEGPlacementScheme": "unknown",
+	"iEEGElectrodeGroups": "Format;Gr[4x5]"
+}
