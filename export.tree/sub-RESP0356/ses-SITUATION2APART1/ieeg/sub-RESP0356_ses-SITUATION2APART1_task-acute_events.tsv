@@ -1,8 +1,0 @@
-onset	duration	trial_type	electrodes_involved	sample_start	sample_stop
-81.7402	110.2158	artefact	Rst01	167404	393126
-81.7402	110.2158	artefact	Rst02	167404	393126
-81.7402	110.2158	artefact	Rst03	167404	393126
-81.7402	110.2158	artefact	Rst04	167404	393126
-81.7402	110.2158	artefact	Rst05	167404	393126
-81.7402	110.2158	artefact	Rst06	167404	393126
-0.50781	191.6187	good data segment	all	1040	393475
