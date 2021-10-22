@@ -1,0 +1,34 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch	status	status_description	chan_recording
+Gr16	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	32
+Gr17	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	33
+Gr18	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	34
+Gr19	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	35
+Gr20	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	36
+Rst01	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included	37
+Rst02	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included	38
+Rst03	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included	39
+Gr11	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	40
+Gr12	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	41
+Gr13	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	42
+Gr14	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	43
+Gr15	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	44
+Rst04	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included	45
+Rst05	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included	46
+Rst06	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included	47
+Gr06	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	48
+Gr07	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	49
+Gr08	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	50
+Gr09	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	51
+Gr10	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	52
+Riv01	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	53
+Riv02	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	54
+Riv03	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	55
+Gr01	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	56
+Gr02	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	57
+Gr03	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	58
+Gr04	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	59
+Gr05	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	60
+Riv04	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	61
+Riv05	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording	62
+ECG	ECG	µV	468	0.15	G2	other	2048	n/a	good	not included	63
+MKR+	TRIG	µV	468	0.15	MKR-	other	2048	n/a	good	not included	174

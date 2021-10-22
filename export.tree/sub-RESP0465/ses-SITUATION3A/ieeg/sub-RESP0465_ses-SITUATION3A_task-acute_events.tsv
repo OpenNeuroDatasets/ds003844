@@ -1,0 +1,3 @@
+onset	duration	trial_type	electrodes_involved	sample_start	sample_stop
+181.334	41.9663	artefact	Gr18	371372	457319
+1.73	219.6387	good data segment	all	3543	453363

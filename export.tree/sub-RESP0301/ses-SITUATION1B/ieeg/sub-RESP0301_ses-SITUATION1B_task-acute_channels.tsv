@@ -1,0 +1,65 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch	status	status_description	chan_recording
+Gr16	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	32
+Gr17	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	33
+Gr18	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	34
+Gr19	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	35
+Gr20	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	36
+Rst01	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	37
+Rst02	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	38
+Rst03	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	39
+Gr11	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	40
+Gr12	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	41
+Gr13	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	42
+Gr14	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	43
+Gr15	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	44
+Rst04	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	45
+Rst05	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	46
+Rst06	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	47
+Gr06	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	48
+Gr07	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	49
+Gr08	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	50
+Gr09	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	51
+Gr10	ECOG	µV	67	0.15	G2	grid	256	n/a	bad	noisy (visual assessment)	52
+Riv01	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	53
+Riv02	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	54
+Riv03	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	55
+Gr01	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	56
+Gr02	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	57
+Gr03	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	58
+Gr04	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	59
+Gr05	ECOG	µV	67	0.15	G2	grid	256	n/a	good	included	60
+Riv04	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	61
+Riv05	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	62
+ECG	ECG	µV	67	0.15	G2	other	256	n/a	good	not included	63
+Str01	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	64
+Str02	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	65
+Str03	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	66
+Str04	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	67
+Str05	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	68
+Str06	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	69
+Str07	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	70
+Str08	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	71
+Siv01	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	72
+Siv02	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	73
+Siv03	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	74
+Siv04	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	75
+Siv05	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	76
+Siv06	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	77
+Siv07	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	78
+Siv08	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	79
+el049	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	80
+el050	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	81
+el051	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	82
+el052	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	83
+el053	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	84
+el054	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	85
+el055	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	86
+el056	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	87
+el057	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	88
+el058	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	89
+el059	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	90
+el060	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	91
+el061	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	92
+el062	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	93
+el063	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	94
+el064	OTHER	µV	67	0.15	G2	other	256	n/a	bad	not recording	95

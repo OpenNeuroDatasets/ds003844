@@ -1,0 +1,4 @@
+onset	duration	trial_type	electrodes_involved	sample_start	sample_stop
+33.3745	110.562	odd behavior	Gr05	68351	294782
+37.4854	163.584	odd behavior	Gr10	76770	411790
+1.3213	199.8667	good data segment	all	2706	412033

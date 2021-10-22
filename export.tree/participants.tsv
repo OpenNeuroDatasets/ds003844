@@ -1,0 +1,7 @@
+participant_id	session	age	sex
+sub-RESP0059	1A,1B,2A,3A,4A	0	female
+sub-RESP0280	1A,1B,2A,3A	0	male
+sub-RESP0301	1A,1B,2A,2B,2C	0	male
+sub-RESP0356	1A,1B,2APART1,2APART2,3A	0	male
+sub-RESP0384	1A,1B,1C,1D,2A,2B,2C,2D,3A	0	female
+sub-RESP0465	1A,2A,2B,3A,3B,3C,3D,3E,3F,3G	0	female
