@@ -1,6 +1,6 @@
 {
     "Name": "Dataset Clinical Epilepsy iEEG to BIDS -RESPect_intraoperative_iEEG",
-    "BIDSVersion": "BEP010",
+    "BIDSVersion": "Brain Imaging Data Structure v1.6.0",
     "License": "CC0",
     "Authors": [
         "Zweiphenning W.",
